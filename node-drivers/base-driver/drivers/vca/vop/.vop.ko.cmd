@@ -1,0 +1,1 @@
+cmd_/vca-software-stack/node-drivers/base-driver/drivers/vca/vop/vop.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id -z noexecstack -z relro -z now -o /vca-software-stack/node-drivers/base-driver/drivers/vca/vop/vop.ko /vca-software-stack/node-drivers/base-driver/drivers/vca/vop/vop.o /vca-software-stack/node-drivers/base-driver/drivers/vca/vop/vop.mod.o

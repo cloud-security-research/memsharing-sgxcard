@@ -1,0 +1,5 @@
+kernel//root/anjo/il_spr_ssl_dcs-vca-mem-sharing-stack/host-drivers/base-driver/vca/bus/vop_bus.ko
+kernel//root/anjo/il_spr_ssl_dcs-vca-mem-sharing-stack/host-drivers/base-driver/vca/bus/vca_csm_bus.ko
+kernel//root/anjo/il_spr_ssl_dcs-vca-mem-sharing-stack/host-drivers/base-driver/vca/bus/vca_mgr_bus.ko
+kernel//root/anjo/il_spr_ssl_dcs-vca-mem-sharing-stack/host-drivers/base-driver/vca/bus/vca_csa_bus.ko
+kernel//root/anjo/il_spr_ssl_dcs-vca-mem-sharing-stack/host-drivers/base-driver/vca/bus/vca_mgr_extd_bus.ko

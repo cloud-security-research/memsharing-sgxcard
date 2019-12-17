@@ -1,0 +1,1 @@
+cmd_/vca-software-stack/node-drivers/base-driver/drivers/vca/vca_mgr/vca_mgr.o := ld -m elf_x86_64   -r -o /vca-software-stack/node-drivers/base-driver/drivers/vca/vca_mgr/vca_mgr.o /vca-software-stack/node-drivers/base-driver/drivers/vca/vca_mgr/vca_mgr_main.o ; scripts/mod/modpost /vca-software-stack/node-drivers/base-driver/drivers/vca/vca_mgr/vca_mgr.o

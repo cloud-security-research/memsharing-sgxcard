@@ -1,0 +1,2 @@
+/root/anjo/il_spr_ssl_dcs-vca-mem-sharing-stack/host-drivers/base-driver/vca/blockio/vcablkfe.ko
+/root/anjo/il_spr_ssl_dcs-vca-mem-sharing-stack/host-drivers/base-driver/vca/blockio/vcablk/vcablk.o /root/anjo/il_spr_ssl_dcs-vca-mem-sharing-stack/host-drivers/base-driver/vca/blockio/vcablk/vcablk_disk.o /root/anjo/il_spr_ssl_dcs-vca-mem-sharing-stack/host-drivers/base-driver/vca/blockio/hal_pci/vcablk_hal_pci.o

@@ -1,0 +1,4 @@
+kernel//vca-software-stack/node-drivers/base-driver/drivers/vca/vca_virtio/vca_virtio_net.ko
+kernel//vca-software-stack/node-drivers/base-driver/drivers/vca/vca_virtio/vca_vringh.ko
+kernel//vca-software-stack/node-drivers/base-driver/drivers/vca/vca_virtio/vca_virtio_ring.ko
+kernel//vca-software-stack/node-drivers/base-driver/drivers/vca/vca_virtio/vca_virtio.ko

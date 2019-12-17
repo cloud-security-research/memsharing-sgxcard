@@ -1,0 +1,5 @@
+kernel//vca-software-stack/node-drivers/base-driver/drivers/vca/bus/vop_bus.ko
+kernel//vca-software-stack/node-drivers/base-driver/drivers/vca/bus/vca_csm_bus.ko
+kernel//vca-software-stack/node-drivers/base-driver/drivers/vca/bus/vca_mgr_bus.ko
+kernel//vca-software-stack/node-drivers/base-driver/drivers/vca/bus/vca_csa_bus.ko
+kernel//vca-software-stack/node-drivers/base-driver/drivers/vca/bus/vca_mgr_extd_bus.ko

@@ -1,0 +1,19 @@
+
+obj-m := plx87xx.o
+
+plx87xx-objs :=
+plx87xx-objs += vca/plx87xx/plx_main.o
+plx87xx-objs += vca/plx87xx/plx_boot.o
+plx87xx-objs += vca/plx87xx/plx_hw.o
+plx87xx-objs += vca/plx87xx/plx_debugfs.o
+plx87xx-objs += vca/plx87xx/plx_procfs.o
+plx87xx-objs += vca/plx87xx/plx_intr.o
+plx87xx-objs += vca/plx87xx/plx_alm.o
+plx87xx-objs += vca/plx87xx/plx_lbp.o
+plx87xx-objs += vca/plx87xx/plx_hw_ops_blockio.o
+plx87xx-objs += vca/plx87xx/plx_hw_ops_vca_mgr.o
+plx87xx-objs += vca/plx87xx/plx_hw_ops_vca_mgr_extd.o
+plx87xx-objs += vca/plx87xx/plx_hw_ops_vca_csa.o
+plx87xx-objs += vca/plx87xx/plx_hw_ops_vca_csm.o
+plx87xx-objs += vca/plx87xx/plx_hw_ops_vop.o
+
