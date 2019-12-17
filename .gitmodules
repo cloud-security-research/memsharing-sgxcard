@@ -1,3 +1,3 @@
-[submodule "com-library/include/libcuckoo"]
+[submodule "libcuckoo"]
 	path = com-library/include/libcuckoo
 	url = https://github.com/efficient/libcuckoo.git
