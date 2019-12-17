@@ -1,2 +1,0 @@
-/vca-software-stack/node-drivers/base-driver/drivers/vca/blockio/vcablk_bckend.ko
-/vca-software-stack/node-drivers/base-driver/drivers/vca/blockio/vcablk_bcknd/vcablk_bcknd.o /vca-software-stack/node-drivers/base-driver/drivers/vca/blockio/vcablk_bcknd/vcablk_bcknd_disk.o /vca-software-stack/node-drivers/base-driver/drivers/vca/blockio/vcablk_bcknd/vcablk_bcknd_media.o /vca-software-stack/node-drivers/base-driver/drivers/vca/blockio/hal_pci/vcablk_bcknd_hal_pci.o

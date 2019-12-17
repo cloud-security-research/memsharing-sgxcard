@@ -1,2 +1,0 @@
-/root/anjo/il_spr_ssl_dcs-vca-mem-sharing-stack/host-drivers/base-driver/vca/vca_mgr_extd/vca_mgr_extd.ko
-/root/anjo/il_spr_ssl_dcs-vca-mem-sharing-stack/host-drivers/base-driver/vca/vca_mgr_extd/vca_mgr_extd_main.o
