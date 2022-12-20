@@ -1,6 +1,9 @@
 # Memory Sharing Library for Intel® SGX Card
 contact: somnath.chakrabarti@intel.com  or  anjo.lucas.vahldiek-oberwagner@intel.com
 
+> :warning: **DISCONTINUATION OF PROJECT** - *This project will no longer be maintained by Intel.  This project has been identified as having known security escapes.  Intel has ceased development and contributions including, but not limited to, maintenance, bug fixes, new releases, or updates, to this project.* **Intel no longer accepts patches to this project.**
+
+
 The underlying primitives of this library are described in the paper "Scaling Intel Software Guard Extensions Applications with Intel SGX Card" by Somnath Chakrabarti, Matthew Hoekstra, Dmitrii Kuvaiskii, and Mona Vij from HASP'19.
 
 https://dl.acm.org/citation.cfm?id=3337173
